@@ -70,6 +70,40 @@ Bagian ini berisi file-file yang berada di dalam folder `oop/`. File-file ini se
     -   [`superInheritances.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/oop/superInheritances.kt): Penggunaan kata kunci `super` dalam konteks pewarisan untuk memanggil implementasi dari kelas induk.
     -   [`visibility modifiers.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/oop/visibility%20modifiers.kt): Penjelasan tentang modifier visibilitas (`public`, `private`, `protected`, `internal`).
 
+### 📁 **Folder Aplikasi Contoh (Non-OOP Spesifik)**
+
+Direktori ini berisi contoh-contoh implementasi yang mungkin menggunakan konsep dasar Kotlin, tetapi tidak secara eksplisit berfokus pada prinsip OOP tingkat lanjut.
+
+-   **[`app_contoh/`](https://github.com/MENSTRUE/kotlin-dicoding/tree/master/src/app_contoh)**: Folder yang berisi contoh aplikasi atau modul terpisah.
+    -   [`isinya.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/app_contoh/isinya.kt): (Deskripsi isi file ini perlu ditambahkan secara manual berdasarkan kontennya).
+
+-   **[`app_lari/`](https://github.com/MENSTRUE/kotlin-dicoding/tree/master/src/app_lari)**: Folder yang memuat bagian dari aplikasi yang berfokus pada fungsionalitas terkait "lari" atau "perlombaan".
+    -   [`app.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/app_lari/app.kt): (Deskripsi isi file ini perlu ditambahkan secara manual).
+    -   [`constractor lomba.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/app_lari/constractor%20lomba.kt): Contoh konstruktor terkait objek lomba.
+    -   [`function overloading kata-kata.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/app_lari/function%20overloading%20kata-kata.kt): Demonstrasi *function overloading* dengan parameter bertipe string atau "kata-kata".
+    -   [`function rute.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/app_lari/function%20rute.kt): Contoh fungsi yang menangani atau mendefinisikan rute.
+    -   [`notification_sample.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/app_lari/notification_sample.kt): Contoh implementasi atau penggunaan notifikasi.
+    -   [`properties constractor program.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/app_lari/properties%20constractor%20program.kt): Properti kelas yang diinisialisasi melalui konstruktor dalam konteks program.
+
+### 🗄️ **Folder Database (Representasi Data)**
+
+Direktori ini berisi file-file yang mungkin merepresentasikan struktur data, model, atau interaksi dengan database (meskipun implementasi database sebenarnya mungkin tidak ada, ini bisa menjadi representasi objek data).
+
+-   **[`database/`](https://github.com/MENSTRUE/kotlin-dicoding/tree/master/src/database)**: Folder untuk representasi data atau model database.
+    -   [`data personal.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/data%20personal.kt): Kelas atau objek untuk menyimpan data personal.
+    -   [`kata_kata_pelari.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/kata_kata_pelari.kt): Data terkait "kata-kata" atau frasa untuk pelari.
+    -   [`lomba.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/lomba.kt): Model data atau objek untuk entitas lomba.
+    -   [`notification.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/notification.kt): Model data atau objek untuk entitas notifikasi.
+    -   [`program.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/program.kt): Model data atau objek untuk entitas program.
+    -   [`rute.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/rute.kt): Model data atau objek untuk entitas rute.
+    -   [`speed.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/speed.kt): Model data atau objek untuk entitas kecepatan.
+    -   [`waktu penyelesaian.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/database/waktu%20penyelesaian.kt): Model data atau objek untuk entitas waktu penyelesaian.
+
+### 📦 **Folder Contoh Package (Non-OOP Spesifik)**
+
+-   **[`misal_package/`](https://github.com/MENSTRUE/kotlin-dicoding/tree/master/src/misal_package)**: Direktori yang menunjukkan penggunaan *package* untuk mengorganisir kode dan menghindari konflik penamaan.
+    -   [`contoh_class.kt`](https://github.com/MENSTRUE/kotlin-dicoding/blob/master/src/misal_package/contoh_class.kt): Sebuah contoh kelas yang ditempatkan dalam sebuah package.
+
 ---
 
 ## 🧠 Tujuan
@@ -99,6 +133,14 @@ Repositori ini bertujuan untuk:
 Sebagian besar konsep dan contoh di repositori ini didasarkan pada materi pembelajaran dari:
 
 * **Dicoding - Belajar Dasar Pemrograman Kotlin** (dan/atau kursus Kotlin lainnya di Dicoding yang relevan dengan OOP).
+
+---
+
+## 🏆 Sertifikat Kelulusan
+
+Saya telah menyelesaikan dan lulus dari kelas **Belajar Dasar Pemrograman Kotlin** di Dicoding. Berikut adalah bukti sertifikat kelulusan saya:
+
+* [**Sertifikat Belajar Dasar Pemrograman Kotlin**](https://www.dicoding.com/certificates/MRZMYRN3LZYQ)
 
 ---
 
